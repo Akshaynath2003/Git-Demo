@@ -9,8 +9,6 @@ public class Ps1 extends Method1{
 		System.out.println(ps2.increment());
 		System.out.println(ps2.decrement());
 		System.out.println(ps2.multiplication());
-		System.out.println("all have done");
-		System.out.println("we can also it wright");
 	}
 	
 	
